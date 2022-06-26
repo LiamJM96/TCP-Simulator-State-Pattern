@@ -1,0 +1,27 @@
+{
+    "commands": [
+      {
+        "command": "syn"
+      },
+      {
+        "command": "ack"
+      },
+      {
+        "command": "fin"
+      },
+      {
+        "command": "ack"
+      }
+    ],
+    "messages": [
+      {
+        "message": "Hello"
+      },
+      {
+        "message": "How are you"
+      },
+      {
+        "message": "Goodbye"
+      }
+    ]
+  }
